@@ -1,20 +1,38 @@
 [
-	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
-	},
-	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
-	},
-	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
-	}
+  {
+    "name": "Agence Départementale de la Marne - ADT",
+    "description": "Réalisation d'un questionnaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
+    "image": "/assets/images/projects/html.zone.png",
+    "url": "http://www.github.com/khaliev/ADT"
+  },
+  {
+    "name": "Sankliché",
+    "description": "Optimisation et déploiement d'une app/plateforme web dédié à l'apprentissage de la langue française",
+    "image": "/assets/images/projects/email.ml.png",
+    "url": "https://github.com/khaliev/projet-sankliche"
+  },
+  {
+    "name": "TravelOn - Hackathon",
+    "description": "Réalisation d'une application web sur le sujet des vacances",
+    "image": "/assets/images/projects/dns.surf.png",
+    "url": "http://www.github.com/khaliev/TravelOn"
+  },
+  {
+    "name": "Emmaüs Mobile - Hackathon",
+    "description": "Réalisation d'une application web suivant la charte graphique d'Emmaus Mobile",
+    "image": "/assets/images/projects/html.zone.png",
+    "url": "https://html.zone"
+  },
+  {
+    "name": "Cinegenius",
+    "description": "Création d'un site web qui suggère un film en fonction des préférences d'utilisateur",
+    "image": "/assets/images/projects/html.zone.png",
+    "url": "http://www.github.com/khaliev/Cinegenius"
+  },
+  {
+    "name": "Wild'kedIn",
+    "description": "Création d'un site web responsive avec un mini réseau des futurs alumnis de la Wild Code School",
+    "image": "/assets/images/projects/html.zone.png",
+    "url": "https://khaliev.github.io/WildkedIn/#"
+  }
 ]

@@ -1,23 +1,50 @@
 [
-	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
-	},
-	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
-	},
-	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
-	}
+  {
+    "dates": "Août 2023 - Décembre 2023",
+    "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL Déploiement sur LWS",
+    "company": "Stage chez Sankliché (en partenariat de la Wild Code School)",
+    "description": "Optimisation et déploiement d'une app/plateforme web dédié à l'apprentissage de la langue française",
+    "logo": "/assets/images/experiences/fta.ico",
+    "url": "https://github.com/khaliev/projet-sankliche"
+  },
+  {
+    "dates": "28 - 30 juin (12 heures)",
+    "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL",
+    "company": "Wild Code School - Hackathon - Projet  Emmaüs Mobile",
+    "description": "Réalisation d'une application web suivant la charte graphique d'Emmaus Mobile",
+    "logo": "/assets/images/experiences/fta.ico",
+    "url": "https://github.com/khaliev/EmaussMobile"
+  },
+  {
+    "dates": "Mai 2023 - Juillet 2023",
+    "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL",
+    "company": "Agence Départementale de la Marne - ADT",
+    "description": "Réalisation d'un questionnaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
+    "logo": "/assets/images/experiences/fta.ico",
+    "url": "http://www.github.com/khaliev/ADT"
+  },
+  {
+    "dates": "11 - 12 mai 2023 (12 heures)",
+    "role": "Développement en ReactJS / API",
+    "company": "Wild Code School - Hackathon - Projet  TravelOn",
+    "description": "Réalisation d'une application web sur le sujet des vacances",
+    "logo": "/assets/images/experiences/fta.ico",
+    "url": "http://www.github.com/khaliev/TravelOn"
+  },
+  {
+    "dates": "Avril 2023 - Mai 2023",
+    "role": "Développement en ReactJs / NodeJs (ExpressJs) / API",
+    "company": "Wild Code School - Projet Cinegenius",
+    "description": "Création d'un site web qui suggère un film en fonction des préférences d'utilisateur",
+    "logo": "/assets/images/experiences/yoho.ico",
+    "url": "http://www.github.com/khaliev/Cinegenius"
+  },
+  {
+    "dates": "Mars 2023",
+    "role": "Développement HTML / CSS / Javascript / Git",
+    "company": "Wild Code School - Projet Wild'kedIn",
+    "description": "Création d'un site web responsive avec un mini réseau des futurs alumnis de la Wild Code School",
+    "logo": "/assets/images/experiences/wulian.ico",
+    "url": "http://www.khaliev.github.io/WildkedIn"
+  }
 ]

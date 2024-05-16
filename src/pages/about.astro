@@ -5,10 +5,10 @@ import PageHeading from "../components/page-heading.astro";
 import Layout from "../layouts/main.astro";
 ---
 
-<Layout title="About Me">
+<Layout title="About me">
   <section class="relative z-20 max-w-2xl mx-auto my-12 px-7 lg:px-0">
     <PageHeading
-      title="About Me"
+      title="A propos de moi"
       description="Bonjour 👋 Je suis un développeur web fullstack basé à Reims. Passionné par la création de nouveaux produits et outils."
     />
 
@@ -18,7 +18,7 @@ import Layout from "../layouts/main.astro";
     <p
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
-      Front-end 🧑🏻‍💻, back-end amateur 🤷🏻‍♂️, photographe amateur 📸.
+      Développeur Web fullstack 🧑🏻‍💻, photographe amateur 📸.
     </p>
 
     <h2
@@ -39,6 +39,7 @@ import Layout from "../layouts/main.astro";
                     company={experience.company}
                     description={experience.description}
                     logo={experience.logo}
+                    url={experience.url}
                   />
                 </div>
               ) : (
@@ -48,6 +49,7 @@ import Layout from "../layouts/main.astro";
                   company={experience.company}
                   description={experience.description}
                   logo={experience.logo}
+                  url={experience.url}
                 />
               )}
             </>
@@ -61,11 +63,11 @@ import Layout from "../layouts/main.astro";
       class="text-sm leading-6 text-gray-600 dark:text-neutral-400 sm:leading-7 lg:leading-8 sm:text-base lg:text-lg"
     >
       Si vous voulez voir mes mises à jour <a
-        href="https://twitter.com/ccikai"
+        href="https://www.linkedin.com/in/khaliev/"
         target="_blank"
-        class="text-indigo-600 underline">suivez-moi sur LinkedIn</a
+        class="text-indigo-600 underline">Suivez-moi sur LinkedIn</a
       >, ou vous pouvez m'écrire un <a href="mailto:dev.adlan@icloud.com" class="text-indigo-600 underline"
-        >mail</a
+        >mail</a>
       > et je vous répondrai très vite.
     </p>
   </section>

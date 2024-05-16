@@ -1,18 +1,22 @@
 [
-	{
-		"name": "Home",
-		"url": "/"
-	},
-	{
-		"name": "Posts",
-		"url": "/posts"
-	},
-	{
-		"name": "Projects",
-		"url": "/projects"
-	},
-	{
-		"name": "About",
-		"url": "/about"
-	}
+  {
+    "name": "Accueil",
+    "url": "/"
+  },
+  {
+    "name": "Projets",
+    "url": "/projects"
+  },
+  {
+    "name": "Publications",
+    "url": "/posts"
+  },
+  {
+    "name": "A propos",
+    "url": "/about"
+  },
+  {
+    "name": "Photographie",
+    "url": "/photographs"
+  }
 ]
