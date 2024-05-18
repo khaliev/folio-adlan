@@ -2,37 +2,37 @@
   {
     "name": "Agence Départementale de la Marne - ADT",
     "description": "Réalisation d'un questionnaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
-    "image": "/assets/images/projects/html.zone.png",
+    "image": "/assets/images/projects/ADT.png",
     "url": "http://www.github.com/khaliev/ADT"
   },
   {
     "name": "Sankliché",
     "description": "Optimisation et déploiement d'une app/plateforme web dédié à l'apprentissage de la langue française",
-    "image": "/assets/images/projects/email.ml.png",
+    "image": "/assets/images/projects/Sankliche.png",
     "url": "https://sankliche.applicatif.net/"
   },
   {
     "name": "TravelOn - Hackathon",
     "description": "Réalisation d'une application web sur le sujet des vacances",
-    "image": "/assets/images/projects/dns.surf.png",
+    "image": "/assets/images/projects/TravelOn.png",
     "url": "http://www.github.com/khaliev/TravelOn"
   },
   {
     "name": "Emmaüs Mobile - Hackathon",
     "description": "Réalisation d'une application web suivant la charte graphique d'Emmaus Mobile",
-    "image": "/assets/images/projects/html.zone.png",
+    "image": "/assets/images/projects/Emmaus.png",
     "url": "https://html.zone"
   },
   {
     "name": "Cinegenius",
     "description": "Création d'un site web qui suggère un film en fonction des préférences d'utilisateur",
-    "image": "/assets/images/projects/html.zone.png",
+    "image": "/assets/images/projects/Cinegenius.png",
     "url": "http://www.github.com/khaliev/Cinegenius"
   },
   {
     "name": "Wild'kedIn",
     "description": "Création d'un site web responsive avec un mini réseau des futurs alumnis de la Wild Code School",
-    "image": "/assets/images/projects/html.zone.png",
+    "image": "/assets/images/projects/Wildkedin.png",
     "url": "https://khaliev.github.io/WildkedIn/#"
   }
 ]

@@ -4,7 +4,7 @@
     "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL Déploiement sur LWS",
     "company": "Stage chez Sankliché (en partenariat de la Wild Code School)",
     "description": "Optimisation et déploiement d'une app/plateforme web dédié à l'apprentissage de la langue française",
-    "logo": "/assets/images/experiences/fta.ico",
+    "logo": "/assets/images/experiences/Sankliche-logo.ico",
     "url": "https://github.com/khaliev/projet-sankliche"
   },
   {
@@ -12,7 +12,7 @@
     "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL",
     "company": "Wild Code School - Hackathon - Projet  Emmaüs Mobile",
     "description": "Réalisation d'une application web suivant la charte graphique d'Emmaus Mobile",
-    "logo": "/assets/images/experiences/fta.ico",
+    "logo": "/assets/images/experiences/Emmaus-logo.ico",
     "url": "https://github.com/khaliev/EmaussMobile"
   },
   {
@@ -20,7 +20,7 @@
     "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL",
     "company": "Agence Départementale de la Marne - ADT",
     "description": "Réalisation d'un questionnaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
-    "logo": "/assets/images/experiences/fta.ico",
+    "logo": "/assets/images/experiences/ADT-logo.ico",
     "url": "http://www.github.com/khaliev/ADT"
   },
   {
@@ -28,7 +28,7 @@
     "role": "Développement en ReactJS / API",
     "company": "Wild Code School - Hackathon - Projet  TravelOn",
     "description": "Réalisation d'une application web sur le sujet des vacances",
-    "logo": "/assets/images/experiences/fta.ico",
+    "logo": "/assets/images/experiences/TravelOn-logo.ico",
     "url": "http://www.github.com/khaliev/TravelOn"
   },
   {
@@ -36,7 +36,7 @@
     "role": "Développement en ReactJs / NodeJs (ExpressJs) / API",
     "company": "Wild Code School - Projet Cinegenius",
     "description": "Création d'un site web qui suggère un film en fonction des préférences d'utilisateur",
-    "logo": "/assets/images/experiences/yoho.ico",
+    "logo": "/assets/images/experiences/Cinegenius-logo.ico",
     "url": "http://www.github.com/khaliev/Cinegenius"
   },
   {
@@ -44,7 +44,7 @@
     "role": "Développement HTML / CSS / Javascript / Git",
     "company": "Wild Code School - Projet Wild'kedIn",
     "description": "Création d'un site web responsive avec un mini réseau des futurs alumnis de la Wild Code School",
-    "logo": "/assets/images/experiences/wulian.ico",
+    "logo": "/assets/images/experiences/Wildkedin-logo.ico",
     "url": "http://www.khaliev.github.io/WildkedIn"
   }
 ]
