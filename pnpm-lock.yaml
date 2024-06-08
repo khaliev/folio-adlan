@@ -20,6 +20,9 @@ importers:
       '@types/react-dom':
         specifier: ^18.3.0
         version: 18.3.0
+      astro-carousel:
+        specifier: ^2.0.8
+        version: 2.0.8(astro@4.8.2(typescript@5.4.5))
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -946,6 +949,11 @@ packages:
 
   array-iterate@2.0.1:
     resolution: {integrity: sha512-I1jXZMjAgCMmxT4qxXfPXa6SthSoE8h6gkSI9BGGNv8mP8G/v0blc+qFnZu6K42vTOiuME596QaLO0TP3Lk0xg==}
+
+  astro-carousel@2.0.8:
+    resolution: {integrity: sha512-QV812jOT3LbIk8qlcpeN6T+UeVmqYGXnSreYJRU50Y/hESr7xUugJ4VqwtDRVahhASpprKkv7NYvNi4NAo/0Mg==}
+    peerDependencies:
+      astro: ^4.5.0
 
   astro@4.8.2:
     resolution: {integrity: sha512-WBrnNePQ03cF5c+9sjD3TeyJodWMuPCwygDOUo7r+7LbKDN9TJK+KxIxo01AOX4HcexhxcLiTVVCBLSsi+OX9A==}
@@ -3194,6 +3202,10 @@ snapshots:
       dequal: 2.0.3
 
   array-iterate@2.0.1: {}
+
+  astro-carousel@2.0.8(astro@4.8.2(typescript@5.4.5)):
+    dependencies:
+      astro: 4.8.2(typescript@5.4.5)
 
   astro@4.8.2(typescript@5.4.5):
     dependencies:
