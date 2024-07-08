@@ -1,7 +1,7 @@
 [
   {
-    "name": "Agence Départementale de la Marne - ADT",
-    "description": "Réalisation d'un questionnaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
+    "name": "Agence Départementale du Tourisme de la Marne - ADT",
+    "description": "Réalisation d'une application web questionaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
     "image": "/assets/images/projects/ADT.png",
     "url": "http://www.github.com/khaliev/ADT"
   },
@@ -25,7 +25,7 @@
   },
   {
     "name": "Cinegenius",
-    "description": "Création d'un site web qui suggère un film en fonction des préférences d'utilisateur",
+    "description": "Création d'une application web qui suggère un film en fonction des préférences d'utilisateur",
     "image": "/assets/images/projects/Cinegenius.png",
     "url": "http://www.github.com/khaliev/Cinegenius"
   },
