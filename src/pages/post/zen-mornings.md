@@ -7,7 +7,7 @@ dateFormatted: July 15th, 2023
 
 **Introduction**
 
-Hey there, fellow code wranglers and pixel pushers! 🌅 Ever felt that mid-morning slump, right when you're diving deep into that new React component or finalizing a sleek UI design? Yeah, me too. But here's the thing: I've discovered the magic potion – a killer morning routine. And no, it's not just about brewing the perfect pour-over (though that's a part of it).
+Hey there, fellow code wranglers and pixel pushers! 🌄 Ever felt that mid-morning slump, right when you're diving deep into that new React component or finalizing a sleek UI design? Yeah, me too. But here's the thing: I've discovered the magic potion – a killer morning routine. And no, it's not just about brewing the perfect pour-over (though that's a part of it).
 
 ![Coffee Pour-over](/assets/images/posts/coffee.jpg)
 
@@ -21,7 +21,7 @@ Hey there, fellow code wranglers and pixel pushers! 🌅 Ever felt that mid-morn
 
 **Crafting the Ultimate Morning Ritual**
 
-- **Vinyl Vibes**: Start with some chill beats. My go-to? A bit of Tame Impala or some lo-fi beats.
+- **Vinyl Vibes**: Start with some zen tricks, like a meditation. My go-to? A 10 minute eyes closing moment and reflecting on me, on my way to become a better version of myself.
 - **Brewed to Perfection**: Ditch the instant coffee. Go for a French press or Chemex brew. Trust me, it's worth the extra minutes.
 - **Meditative Moments**: Even just 5 minutes of mindfulness can set the tone. I use apps like Headspace or just some deep breathing exercises.
 - **Analog Inspiration**: Before diving into the digital, I jot down my thoughts in a Moleskine. Old school, I know, but it's a game-changer.
