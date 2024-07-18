@@ -7,13 +7,13 @@
   },
   {
     "name": "Sankliché",
-    "description": "Optimisation et déploiement d'une app/plateforme web dédié à l'apprentissage de la langue française",
+    "description": "Optimisation et déploiement d'une plateforme web dédiée à l'apprentissage de la langue française",
     "image": "/assets/images/projects/Sankliche.png",
     "url": "https://sankliche.applicatif.net/"
   },
   {
     "name": "TravelOn - Hackathon",
-    "description": "Réalisation d'une application web sur le sujet des vacances",
+    "description": "Réalisation d'une application web permettant de trouver un hébérgement près des lieux culturels",
     "image": "/assets/images/projects/TravelOn.png",
     "url": "http://www.github.com/khaliev/TravelOn"
   },
