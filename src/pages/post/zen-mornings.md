@@ -23,8 +23,8 @@ Hey there, fellow code wranglers and pixel pushers! 🌄🌅 Ever felt that mid-
 
 - **Vinyl Vibes**: Start with some zen tricks, like a meditation. My go-to? A 10 minute eyes closing moment and reflecting on me, on my way to become a better version of myself.
 - **Brewed to Perfection**: Ditch the instant coffee. Go for a French press or Chemex brew. Trust me, it's worth the extra minutes.
-- **Meditative Moments**: Even just 5 minutes of mindfulness can set the tone. I use apps like Headspace or just some deep breathing exercises.
-- **Analog Inspiration**: Before diving into the digital, I jot down my thoughts in a Moleskine. Old school, I know, but it's a game-changer.
+- **Meditative Moments**: Even just 5 minutes of mindfulness can set the tone. I use apps like Balance or just some deep breathing exercises.
+- **Analog Inspiration**: Before diving into the digital, I jot down my thoughts in a Moleskine. Old school, I know, but it's a real game-changer.
 
 **Conclusion**
 
