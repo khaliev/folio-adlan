@@ -7,7 +7,7 @@ dateFormatted: July 15th, 2023
 
 **Introduction**
 
-Hey there, fellow code wranglers and pixel pushers! 🌄🌅 Ever felt that mid-morning slump, right when you're diving deep into that new React component or finalizing a sleek UI design? Yeah, me too. But here's the thing: I've discovered the magic potion – a killer morning routine. And no, it's not just about brewing the perfect pour-over (though that's a part of it).
+Hey there, fellow code wranglers and pixel pushers! 🌅 Ever felt that mid-morning slump, right when you're diving deep into that new React component or finalizing a sleek UI design? Yeah, me too. But here's the thing: I've discovered the magic potion – a killer morning routine. And no, it's not just about brewing the perfect pour-over (though that's a part of it).
 
 ![Coffee Pour-over](/assets/images/posts/coffee.jpg)
 
@@ -28,4 +28,4 @@ Hey there, fellow code wranglers and pixel pushers! 🌄🌅 Ever felt that mid-
 
 **Conclusion**
 
-Alright, fellow creatives, that's my two cents (or should I say, two lines of code?) on morning routines. It's not about rigid schedules; it's about finding what vibes with you. So, whether you're into sunrise yoga or just sipping that artisanal coffee, find your morning mojo and watch your day transform. Peace out and happy coding! ✌️
+Alright, creatives guys, that's my two cents (or should I say, two lines of code?) on morning routines. It's not about rigid schedules; it's about finding what vibes with you. So, whether you're into sunrise yoga or just sipping that artisanal coffee, find your morning mojo and watch your day transform. Peace out and happy coding! ✌️
