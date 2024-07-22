@@ -25,8 +25,6 @@
     "@radix-ui/react-slot": "^1.1.0",
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.3.0",
-    "astro-carousel": "^2.0.8",
-    "embla-carousel-react": "^8.1.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "typescript": "^5.4.5"
