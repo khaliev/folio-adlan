@@ -28,4 +28,4 @@ Hey there, fellow code wranglers and pixel pushers! 🌅 Ever felt that mid-morn
 
 **Conclusion**
 
-Alright, creatives guys, that's my two cents (or should I say, two lines of code?) on morning routines. It's not about rigid schedules; it's about finding what vibes with you. So, whether you're into sunrise yoga or just sipping that artisanal coffee, find your morning mojo and watch your day transform. Peace out and happy coding! ✌️
+Alright, creative guys, that's my two cents (or should I say, two lines of code?) on morning routines. It's not about rigid schedules; it's about finding what vibes with you. So, whether you're into sunrise yoga or just sipping that artisanal coffee, find your morning mojo and watch your day transform. Peace out and happy coding! ✌️
