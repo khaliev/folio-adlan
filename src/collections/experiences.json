@@ -19,7 +19,7 @@
     "dates": "Mai 2023 - Juillet 2023",
     "role": "Développement en ReactJs / NodeJs (ExpressJs) / SQL",
     "company": "Agence Départementale du Tourisme de la Marne - ADT",
-    "description": "Réalisation d'une application web questionnaire automatisé d'éligibilité au label d'éco-tourisme du département marnais",
+    "description": "Réalisation d'une application web questionnaire automatisé d'éligibilité au label d'éco-tourisme du département de la Marne",
     "logo": "/assets/images/experiences/ADT-logo.ico",
     "url": "http://www.github.com/khaliev/ADT"
   },
@@ -27,7 +27,7 @@
     "dates": "11 - 12 mai 2023 (12 heures)",
     "role": "Développement en ReactJS / API",
     "company": "Wild Code School - Hackathon - Projet  TravelOn",
-    "description": "Réalisation d'une application web sur le sujet des vacances",
+    "description": "Réalisation d'une application web dont pour le sujet sont des vacances",
     "logo": "/assets/images/experiences/TravelOn-logo.ico",
     "url": "http://www.github.com/khaliev/TravelOn"
   },
@@ -35,7 +35,7 @@
     "dates": "Avril 2023 - Mai 2023",
     "role": "Développement en ReactJs / NodeJs (ExpressJs) / API",
     "company": "Wild Code School - Projet Cinegenius",
-    "description": "Création d'un site web qui suggère un film en fonction des préférences d'utilisateur",
+    "description": "Création d'un site web qui suggère un film en fonction des préférences des utilisateurs",
     "logo": "/assets/images/experiences/Cinegenius-logo.ico",
     "url": "http://www.github.com/khaliev/Cinegenius"
   },

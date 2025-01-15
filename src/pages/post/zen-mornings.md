@@ -21,11 +21,11 @@ Hey there, fellow code wranglers and pixel pushers! 🌅 Ever felt that mid-morn
 
 **Crafting the Ultimate Morning Ritual**
 
-- **Vinyl Vibes**: Start with some chill beats. My go-to? A bit of Tame Impala or some lo-fi beats.
+- **Vinyl Vibes**: Start with some zen tricks, like a meditation. My go-to? A 10 minute eyes closing moment and reflecting on me, on my way to become a better version of myself.
 - **Brewed to Perfection**: Ditch the instant coffee. Go for a French press or Chemex brew. Trust me, it's worth the extra minutes.
-- **Meditative Moments**: Even just 5 minutes of mindfulness can set the tone. I use apps like Headspace or just some deep breathing exercises.
-- **Analog Inspiration**: Before diving into the digital, I jot down my thoughts in a Moleskine. Old school, I know, but it's a game-changer.
+- **Meditative Moments**: Even just 5 minutes of mindfulness can set the tone. I use apps like Balance or just some deep breathing exercises.
+- **Analog Inspiration**: Before diving into the digital, I jot down my thoughts in a Moleskine. Old school, I know, but it's a real game-changer.
 
 **Conclusion**
 
-Alright, fellow creatives, that's my two cents (or should I say, two lines of code?) on morning routines. It's not about rigid schedules; it's about finding what vibes with you. So, whether you're into sunrise yoga or just sipping that artisanal coffee, find your morning mojo and watch your day transform. Peace out and happy coding! ✌️
+Alright, creative guys, that's my two cents (or should I say, two lines of code?) on morning routines. It's not about rigid schedules; it's about finding what vibes with you. So, whether you're into sunrise yoga or just sipping that artisanal coffee, find your morning mojo and watch your day transform. Peace out and happy coding! ✌️
